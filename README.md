@@ -21,19 +21,19 @@
 <br>
 <img align="right" width="400" src="https://cdn.dribbble.com/userupload/12609824/file/original-0ebf1e6c9a64bfe1510cf8d72de99185.gif">
 
-- 🔭 I’m currently working on **Wazuh on entire Homelab Infrastructure**
+- I’m currently working on **Wazuh on entire Homelab Infrastructure**
 
-- 🌱 I’m currently learning **Dual Stack Infra Security**
+- I’m currently learning **Dual Stack Infra Security**
 
-- 👯 I’m looking to collaborate on **Calculated IT Management and Upgrade**
+- I’m looking to collaborate on **Calculated IT Management and Upgrade**
 
-- 🤝 I’m looking for help with **IPv6 Risk Mitigation according to GDPR**
+- I’m looking for help with **IPv6 Risk Mitigation according to GDPR**
 
-- 💬 Ask me about **balancing act of simplicity**
+- Ask me about **balancing act of simplicity**
 
-- 📫 How to reach me **ravi_kilnake@hotmail.com**
+- How to reach me **ravi_kilnake@hotmail.com**
 
-- ⚡ Fun fact **I can fly small planes but can't land them.**
+- Fun fact **I can fly small planes but can't land them.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
