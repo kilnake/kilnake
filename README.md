@@ -1,7 +1,7 @@
-<h1 align="center">Ravi Kilnake</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </p>
+<h1 align="center">Ravi Kilnake</h1>
 <h3 align="center">Microsoft Certified Technician from Sweden</h3>
 <div align="center">
     <div class="icon-container">
