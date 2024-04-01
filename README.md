@@ -14,6 +14,9 @@
         <img src="https://phil.lavin.me.uk/wp-content/uploads/2019/07/apnic.png" width="50" alt="ipv6" margin:4px>
     </div>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 <br>
 <img align="right" width="400" src="https://cdn.dribbble.com/userupload/12609824/file/original-0ebf1e6c9a64bfe1510cf8d72de99185.gif">
